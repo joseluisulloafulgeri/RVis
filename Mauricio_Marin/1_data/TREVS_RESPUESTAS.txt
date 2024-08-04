@@ -1,0 +1,126 @@
+-------------------------------------------------
+ID: 001
+Edad: 31
+Genero: M
+Lateralidad: I
+Fecha y Hora: 11-07-2024 22:20:01
+
+Inicio de Serie 1
+Serie 1; Trial 001; 0,352 seg.; Stimulus: 3b_C_M_B
+Serie 1; Trial 002; 0,289 seg.; Stimulus: 3a_C_S_B
+Serie 1; Trial 003; 0,320 seg.; Stimulus: 2c_C_L_G
+Serie 1; Trial 004; 0,305 seg.; Stimulus: 9a_C_S_W
+Serie 1; Trial 005; 0,352 seg.; Stimulus: 4a_C_S_C
+Serie 1; Trial 006; 0,281 seg.; Stimulus: 8c_C_L_BK
+Serie 1; Trial 007; 0,313 seg.; Stimulus: 6b_C_M_Y
+Serie 1; Trial 008; 0,313 seg.; Stimulus: 7b_C_M_GR
+Serie 1; Trial 009; 0,289 seg.; Stimulus: 6c_C_L_Y
+Serie 1; Trial 010; 0,398 seg.; Stimulus: 4b_C_M_C
+Serie 1; Trial 011; 0,336 seg.; Stimulus: 1b_C_M_R
+Serie 1; Trial 012; 0,320 seg.; Stimulus: 1c_C_L_R
+Serie 1; Trial 013; 0,313 seg.; Stimulus: 8a_C_S_BK
+Serie 1; Trial 014; 0,336 seg.; Stimulus: 2a_C_S_G
+Serie 1; Trial 015; 0,289 seg.; Stimulus: 3c_C_L_B
+Serie 1; Trial 016; 0,383 seg.; Stimulus: 8b_C_M_BK
+Serie 1; Trial 017; 0,297 seg.; Stimulus: 4c_C_L_C
+Serie 1; Trial 018; 0,531 seg.; Stimulus: 9b_C_M_W
+Serie 1; Trial 019; 0,375 seg.; Stimulus: 6a_C_S_Y
+Serie 1; Trial 020; 0,484 seg.; Stimulus: 5c_C_L_M
+Serie 1; Trial 021; 0,305 seg.; Stimulus: 7a_C_S_GR
+Serie 1; Trial 022; 0,320 seg.; Stimulus: 5a_C_S_M
+Serie 1; Trial 023; 0,297 seg.; Stimulus: 9c_C_L_W
+Serie 1; Trial 024; 0,320 seg.; Stimulus: 7c_C_L_GR
+Serie 1; Trial 025; 0,297 seg.; Stimulus: 5b_C_M_M
+Serie 1; Trial 026; 0,281 seg.; Stimulus: 1a_C_S_R
+Serie 1; Trial 027; 0,336 seg.; Stimulus: 2b_C_M_G
+Inicio de Serie 2
+Serie 2; Trial 001; 0,266 seg.; Stimulus: 3c_C_L_B
+Serie 2; Trial 002; 0,445 seg.; Stimulus: 3b_C_M_B
+Serie 2; Trial 003; 0,320 seg.; Stimulus: 6b_C_M_Y
+Serie 2; Trial 004; 0,289 seg.; Stimulus: 8c_C_L_BK
+Serie 2; Trial 005; 0,305 seg.; Stimulus: 2b_C_M_G
+Serie 2; Trial 006; 0,305 seg.; Stimulus: 1b_C_M_R
+Serie 2; Trial 007; 0,320 seg.; Stimulus: 7a_C_S_GR
+Serie 2; Trial 008; 0,328 seg.; Stimulus: 4c_C_L_C
+Serie 2; Trial 009; 0,320 seg.; Stimulus: 2c_C_L_G
+Serie 2; Trial 010; 0,328 seg.; Stimulus: 5c_C_L_M
+Serie 2; Trial 011; 0,344 seg.; Stimulus: 6a_C_S_Y
+Serie 2; Trial 012; 0,320 seg.; Stimulus: 1a_C_S_R
+Serie 2; Trial 013; 0,336 seg.; Stimulus: 1c_C_L_R
+Serie 2; Trial 014; 0,320 seg.; Stimulus: 9b_C_M_W
+Serie 2; Trial 015; 0,430 seg.; Stimulus: 8b_C_M_BK
+Serie 2; Trial 016; 0,359 seg.; Stimulus: 6c_C_L_Y
+Serie 2; Trial 017; 0,320 seg.; Stimulus: 7c_C_L_GR
+Serie 2; Trial 018; 0,438 seg.; Stimulus: 2a_C_S_G
+Serie 2; Trial 019; 0,313 seg.; Stimulus: 3a_C_S_B
+Serie 2; Trial 020; 0,305 seg.; Stimulus: 8a_C_S_BK
+Serie 2; Trial 021; 0,273 seg.; Stimulus: 4a_C_S_C
+Serie 2; Trial 022; 0,477 seg.; Stimulus: 7b_C_M_GR
+Serie 2; Trial 023; 0,328 seg.; Stimulus: 4b_C_M_C
+Serie 2; Trial 024; 0,367 seg.; Stimulus: 5a_C_S_M
+Serie 2; Trial 025; 0,352 seg.; Stimulus: 5b_C_M_M
+Serie 2; Trial 026; 0,203 seg.; Stimulus: 9c_C_L_W
+Serie 2; Trial 027; 0,352 seg.; Stimulus: 9a_C_S_W
+-------------------------------------------------
+ID: 002
+Edad: 31
+Genero: F
+Lateralidad: D
+Fecha y Hora: 31-07-2024 12:48:43
+
+Inicio de Serie 1
+Serie 1; Trial 001; 0,590 seg.; Stimulus: 6b_C_M_Y
+Serie 1; Trial 002; 0,453 seg.; Stimulus: 6a_C_S_Y
+Serie 1; Trial 003; 0,398 seg.; Stimulus: 1c_C_L_R
+Serie 1; Trial 004; 0,477 seg.; Stimulus: 4a_C_S_C
+Serie 1; Trial 005; 0,418 seg.; Stimulus: 7c_C_L_GR
+Serie 1; Trial 006; 0,395 seg.; Stimulus: 5c_C_L_M
+Serie 1; Trial 007; 0,457 seg.; Stimulus: 1b_C_M_R
+Serie 1; Trial 008; 0,457 seg.; Stimulus: 7a_C_S_GR
+Serie 1; Trial 009; 0,398 seg.; Stimulus: 2a_C_S_G
+Serie 1; Trial 010; 0,539 seg.; Stimulus: 9c_C_L_W
+Serie 1; Trial 011; 0,453 seg.; Stimulus: 8b_C_M_BK
+Serie 1; Trial 012; 0,523 seg.; Stimulus: 4b_C_M_C
+Serie 1; Trial 013; 0,426 seg.; Stimulus: 1a_C_S_R
+Serie 1; Trial 014; 0,430 seg.; Stimulus: 5a_C_S_M
+Serie 1; Trial 015; 0,598 seg.; Stimulus: 3c_C_L_B
+Serie 1; Trial 016; 0,445 seg.; Stimulus: 2c_C_L_G
+Serie 1; Trial 017; 0,445 seg.; Stimulus: 4c_C_L_C
+Serie 1; Trial 018; 0,457 seg.; Stimulus: 7b_C_M_GR
+Serie 1; Trial 019; 0,375 seg.; Stimulus: 2b_C_M_G
+Serie 1; Trial 020; 0,363 seg.; Stimulus: 3a_C_S_B
+Serie 1; Trial 021; 0,395 seg.; Stimulus: 9b_C_M_W
+Serie 1; Trial 022; 0,391 seg.; Stimulus: 9a_C_S_W
+Serie 1; Trial 023; 0,492 seg.; Stimulus: 8a_C_S_BK
+Serie 1; Trial 024; 0,422 seg.; Stimulus: 6c_C_L_Y
+Serie 1; Trial 025; 0,340 seg.; Stimulus: 5b_C_M_M
+Serie 1; Trial 026; 0,410 seg.; Stimulus: 3b_C_M_B
+Serie 1; Trial 027; 0,398 seg.; Stimulus: 8c_C_L_BK
+Inicio de Serie 2
+Serie 2; Trial 001; 0,418 seg.; Stimulus: 7c_C_L_GR
+Serie 2; Trial 002; 0,406 seg.; Stimulus: 7a_C_S_GR
+Serie 2; Trial 003; 0,563 seg.; Stimulus: 2b_C_M_G
+Serie 2; Trial 004; 0,363 seg.; Stimulus: 8a_C_S_BK
+Serie 2; Trial 005; 0,461 seg.; Stimulus: 5a_C_S_M
+Serie 2; Trial 006; 0,535 seg.; Stimulus: 1b_C_M_R
+Serie 2; Trial 007; 0,445 seg.; Stimulus: 3a_C_S_B
+Serie 2; Trial 008; 0,383 seg.; Stimulus: 9c_C_L_W
+Serie 2; Trial 009; 0,422 seg.; Stimulus: 1a_C_S_R
+Serie 2; Trial 010; 0,414 seg.; Stimulus: 2c_C_L_G
+Serie 2; Trial 011; 0,195 seg.; Stimulus: 5b_C_M_M
+Serie 2; Trial 012; 0,469 seg.; Stimulus: 3b_C_M_B
+Serie 2; Trial 013; 0,508 seg.; Stimulus: 5c_C_L_M
+Serie 2; Trial 014; 0,379 seg.; Stimulus: 1c_C_L_R
+Serie 2; Trial 015; 0,402 seg.; Stimulus: 9a_C_S_W
+Serie 2; Trial 016; 0,500 seg.; Stimulus: 6a_C_S_Y
+Serie 2; Trial 017; 0,414 seg.; Stimulus: 3c_C_L_B
+Serie 2; Trial 018; 0,465 seg.; Stimulus: 9b_C_M_W
+Serie 2; Trial 019; 0,445 seg.; Stimulus: 6c_C_L_Y
+Serie 2; Trial 020; 0,598 seg.; Stimulus: 4b_C_M_C
+Serie 2; Trial 021; 0,426 seg.; Stimulus: 8b_C_M_BK
+Serie 2; Trial 022; 0,496 seg.; Stimulus: 7b_C_M_GR
+Serie 2; Trial 023; 0,461 seg.; Stimulus: 4a_C_S_C
+Serie 2; Trial 024; 0,523 seg.; Stimulus: 2a_C_S_G
+Serie 2; Trial 025; 0,398 seg.; Stimulus: 4c_C_L_C
+Serie 2; Trial 026; 0,551 seg.; Stimulus: 8c_C_L_BK
+Serie 2; Trial 027; 0,461 seg.; Stimulus: 6b_C_M_Y
